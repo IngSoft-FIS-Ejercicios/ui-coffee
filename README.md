@@ -1,4 +1,4 @@
-# Ejercicio de corrección de errores de accesibilidad
+# Ejercicio Coffee
 
 ## Objetivo:
 - Utilizar la herramienta WAVE para detección de errores de accesibilidad.
